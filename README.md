@@ -1,2 +1,2 @@
-# citadel-homelab
+# Citadel Homelab
 Configuration for the Citadel Homelab server.
